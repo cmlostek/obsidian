@@ -11,16 +11,14 @@
             "id": "23344edceb9f986f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "BINF 6211 - Bioinformatics Databases/Powerpoints/02_BINF6211s2025_Databases.pdf",
-                "page": 21,
-                "left": -13,
-                "top": 72,
-                "zoom": 1.1291666666666667
+                "file": "BINF 6211 - Bioinformatics Databases/Homework/Homework 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "02_BINF6211s2025_Databases"
+              "icon": "lucide-file",
+              "title": "Homework 1"
             }
           }
         ]
@@ -180,12 +178,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "42dde12445138949",
+  "active": "23344edceb9f986f",
   "lastOpenFiles": [
+    "BINF 6211 - Bioinformatics Databases/Powerpoints/02_BINF6211s2025_Databases.pdf",
     "BINF 6211 - Bioinformatics Databases/Homework/Homework 1.md",
     "BINF 6211 - Bioinformatics Databases/Homework",
     "BINF 6211 - Bioinformatics Databases/Lectures/Jan 17 - Lecture 2.md",
-    "BINF 6211 - Bioinformatics Databases/Powerpoints/02_BINF6211s2025_Databases.pdf",
     "BINF 6211 - Bioinformatics Databases/Readings/ReadingAssignment_1.pdf",
     "BINF 6211 - Bioinformatics Databases/Powerpoints/Powerpoint 2.md",
     "BINF 6211 - Bioinformatics Databases/Powerpoints",
