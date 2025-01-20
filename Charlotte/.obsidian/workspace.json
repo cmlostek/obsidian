@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "e708a81c19157787",
+    "type": "split",
+    "children": [
+      {
+        "id": "c15cfb2838bb8aa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23344edceb9f986f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BINF 6211 - Bioinformatics Databases/Powerpoints/02_BINF6211s2025_Databases.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "02_BINF6211s2025_Databases"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9220b669afda9227",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdac184f700119bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42dde12445138949",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5870af9162937d2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b6aac22fdcf9eed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21c99187dd16b591",
+    "type": "split",
+    "children": [
+      {
+        "id": "a54005dea7ce8a71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5a63bb92133f4f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2024-11-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-21"
+            }
+          },
+          {
+            "id": "667f8db0d241b97c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2024-11-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-21"
+            }
+          },
+          {
+            "id": "e57ee13f0e349d86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41567a0b3010e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "0a82cf25578cf2a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2024-11-21.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-21"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "23344edceb9f986f",
+  "lastOpenFiles": [
+    "BINF 6211 - Bioinformatics Databases/Lectures/Jan 17 - Lecture 2.md",
+    "BINF 6211 - Bioinformatics Databases/Powerpoints/02_BINF6211s2025_Databases.pdf",
+    "BINF 6211 - Bioinformatics Databases/Readings/ReadingAssignment_1.pdf",
+    "BINF 6211 - Bioinformatics Databases/Powerpoints/Powerpoint 2.md",
+    "BINF 6211 - Bioinformatics Databases/Powerpoints",
+    "BINF 6211 - Bioinformatics Databases/Lectures/Jan 15 - Lecture 1.md",
+    "BINF 6211 - Bioinformatics Databases/Readings/Reading Assignment 1.md",
+    "BINF 6211 - Bioinformatics Databases/Readings/Untitled.pdf",
+    "BINF 6211 - Bioinformatics Databases/Readings",
+    "BINF 6201 - Molecular Sequence Analysis/Lecture 1 - January 15th.md",
+    "BINF 6112 - Bioinformatics Programming 2/January 14 - Lecture 0.md",
+    "BINF 6211 - Bioinformatics Databases/Lectures/Jan 13 - Lecture 0.md",
+    "ITSC 1212",
+    "BINF 6211 - Bioinformatics Databases/Lectures",
+    "Journal/2024-11-21.md",
+    "BINF 4650 - Bioinformatics Capstone",
+    "ITSC 3155 - Software Engineering",
+    "BINF 6201 - Molecular Sequence Analysis",
+    "Journal/Untitled.md",
+    "Table of Contents.md"
+  ]
+}
