@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "BINF 6211 - Bioinformatics Databases/Powerpoints/02_BINF6211s2025_Databases.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 21,
+                "left": -34,
+                "top": 40,
+                "zoom": 0.44583333333333336
               },
               "icon": "lucide-file-text",
               "title": "02_BINF6211s2025_Databases"
@@ -73,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +181,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "23344edceb9f986f",
+  "active": "5870af9162937d2d",
   "lastOpenFiles": [
     "BINF 6211 - Bioinformatics Databases/Lectures/Jan 17 - Lecture 2.md",
     "BINF 6211 - Bioinformatics Databases/Powerpoints/02_BINF6211s2025_Databases.pdf",
