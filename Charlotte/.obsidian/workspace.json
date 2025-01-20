@@ -139,8 +139,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -154,19 +154,9 @@
               "icon": "lucide-list",
               "title": "Outline of 2024-11-21"
             }
-          },
-          {
-            "id": "191705a590c103ac",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -190,9 +180,9 @@
   },
   "active": "23344edceb9f986f",
   "lastOpenFiles": [
-    "BINF 6211 - Bioinformatics Databases/Homework",
     "BINF 6211 - Bioinformatics Databases/Powerpoints/02_BINF6211s2025_Databases.pdf",
     "BINF 6211 - Bioinformatics Databases/Homework/Homework 1.md",
+    "BINF 6211 - Bioinformatics Databases/Homework",
     "BINF 6211 - Bioinformatics Databases/Lectures/Jan 17 - Lecture 2.md",
     "BINF 6211 - Bioinformatics Databases/Readings/ReadingAssignment_1.pdf",
     "BINF 6211 - Bioinformatics Databases/Powerpoints/Powerpoint 2.md",
@@ -209,7 +199,6 @@
     "Journal/2024-11-21.md",
     "BINF 4650 - Bioinformatics Capstone",
     "ITSC 3155 - Software Engineering",
-    "BINF 6201 - Molecular Sequence Analysis",
     "Journal/Untitled.md",
     "Table of Contents.md"
   ]
