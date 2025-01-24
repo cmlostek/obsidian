@@ -5,6 +5,6 @@
 - [ ] Academic Integrity Quiz 3 #Software 📅 2025-01-26 
 - [ ] Lab Test #Programming 📅 2025-01-28 
 - [ ] Q1 #MSA 📅 2025-01-27 
-- [ ] Software Dev Life Cycle #Software 
-- [ ] Requirements and User End Stories #Software 
+- [ ] Software Dev Life Cycle #Software 📅 2025-01-27 
+- [ ] Requirements and User End Stories #Software 📅 2025-01-27 
 - [ ] 
