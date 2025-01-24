@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BINF 6211 - Bioinformatics Databases/Lectures/Jan 24 - Lecture 4.md",
+                "file": "BINF 6211 - Bioinformatics Databases/Lectures/Jan 24 - Lecture 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jan 24 - Lecture 4"
+              "title": "Jan 24 - Lecture 5"
+            }
+          },
+          {
+            "id": "e63af283ae16d466",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BINF 6211 - Bioinformatics Databases/Powerpoints/Lecture_5_2025.pdf",
+                "page": 1,
+                "left": -19,
+                "top": 544,
+                "zoom": 0.846875
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture_5_2025"
             }
           }
         ]
@@ -180,8 +196,9 @@
   },
   "active": "23344edceb9f986f",
   "lastOpenFiles": [
+    "BINF 6211 - Bioinformatics Databases/Powerpoints/Lecture_5_2025.pdf",
+    "BINF 6211 - Bioinformatics Databases/Lectures/Jan 24 - Lecture 5.md",
     "BINF 6211 - Bioinformatics Databases/Lectures/Jan 13 - Lecture 0.md",
-    "BINF 6211 - Bioinformatics Databases/Lectures/Jan 24 - Lecture 4.md",
     "Recording 20250120180335.m4a",
     "BINF 6211 - Bioinformatics Databases/Lectures/Jan 15 - Lecture 1.md",
     "BINF 6211 - Bioinformatics Databases/Lectures/Jan 17 - Lecture 2.md",
@@ -201,7 +218,6 @@
     "BINF 6211 - Bioinformatics Databases/Homework",
     "BINF 6211 - Bioinformatics Databases/Readings/ReadingAssignment_1.pdf",
     "BINF 6211 - Bioinformatics Databases/Powerpoints/Powerpoint 2.md",
-    "BINF 6211 - Bioinformatics Databases/Powerpoints",
     "BINF 6211 - Bioinformatics Databases/Readings/Reading Assignment 1.md",
     "BINF 6201 - Molecular Sequence Analysis/Lecture 1 - January 15th.md",
     "BINF 6112 - Bioinformatics Programming 2/January 14 - Lecture 0.md",
