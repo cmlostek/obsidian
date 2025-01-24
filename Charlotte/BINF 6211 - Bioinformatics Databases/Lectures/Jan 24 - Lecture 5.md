@@ -15,4 +15,7 @@
 
 Adding rows (records) to an existing table
 
-IN
+INSERT INTO tablename (col1, col2, col3, ...)
+VALUES (value1, value2, value3, ...)
+
+
