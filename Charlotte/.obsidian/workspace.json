@@ -20,18 +20,24 @@
               "icon": "lucide-file",
               "title": "Jan 24 - Lecture 5"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "fe37ccf006c5335c",
+        "type": "tabs",
+        "children": [
           {
-            "id": "e63af283ae16d466",
+            "id": "78a59db5a38b10e1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "BINF 6211 - Bioinformatics Databases/Powerpoints/Lecture_5_2025.pdf",
-                "page": 1,
-                "left": -19,
-                "top": 544,
-                "zoom": 0.846875
+                "page": 3,
+                "left": -3,
+                "top": 474,
+                "zoom": 0.44
               },
               "icon": "lucide-file-text",
               "title": "Lecture_5_2025"
@@ -196,8 +202,9 @@
   },
   "active": "23344edceb9f986f",
   "lastOpenFiles": [
-    "BINF 6211 - Bioinformatics Databases/Powerpoints/Lecture_5_2025.pdf",
+    "BINF 6211 - Bioinformatics Databases/Powerpoints/Lecture_2_2025.pdf",
     "BINF 6211 - Bioinformatics Databases/Lectures/Jan 24 - Lecture 5.md",
+    "BINF 6211 - Bioinformatics Databases/Powerpoints/Lecture_5_2025.pdf",
     "BINF 6211 - Bioinformatics Databases/Lectures/Jan 13 - Lecture 0.md",
     "Recording 20250120180335.m4a",
     "BINF 6211 - Bioinformatics Databases/Lectures/Jan 15 - Lecture 1.md",
@@ -214,7 +221,6 @@
     "ITSC 3155 - Software Engineering/Homework",
     "ITSC 3155 - Software Engineering/Lecture",
     "ITSC 1212/Stuff",
-    "BINF 6211 - Bioinformatics Databases/Powerpoints/02_BINF6211s2025_Databases.pdf",
     "BINF 6211 - Bioinformatics Databases/Homework",
     "BINF 6211 - Bioinformatics Databases/Readings/ReadingAssignment_1.pdf",
     "BINF 6211 - Bioinformatics Databases/Powerpoints/Powerpoint 2.md",
