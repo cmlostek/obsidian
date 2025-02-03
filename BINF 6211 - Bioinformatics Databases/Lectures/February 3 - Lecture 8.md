@@ -15,5 +15,12 @@ Hierarchy here allows for "s" and "sc" to be defined before we use them in the "
 SELECT table1.column1, table1.column2, table2.column1,...
 FROM table1
 INNER JOIN table2
-ON table1.matching_column = table2.matching_column
+ON table1.matching_column = table2.matching_column;
+```
+
+```SQL
+SELECT table1.column1, table1.column2, table2.column1,...
+FROM table1
+LEFT JOIN table2
+ON table1.matching_column = table2.matching_column;
 ```
